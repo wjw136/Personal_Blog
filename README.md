@@ -6,6 +6,8 @@
 
 后端管理方面 有 博文管理 评论管理 分类管理 日志统计 的功能
 
+blog_bootstrap是前端部分  blog_spring是后端部分
+
 ## 项目使用的技术栈:
 
 后端: **springboot+mybatis+mybatis-generator+redis+Thymeleaf+pagehelper+swagger**
